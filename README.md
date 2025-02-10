@@ -21,9 +21,6 @@
 
 ### 🌍 Me siga nas redes abaixo!
 <div>
-  <a href="https://www.youtube.com/channel/UCdXFEphSiKXPprDezM9w7_g" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.instagram.com/dev_gabryelfernandes/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>

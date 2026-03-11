@@ -18,7 +18,7 @@
 🔹 [Meu Portfólio](https://gabryel-fernandes.vercel.app/)
 
 ### 📊 Estatísticas
-![Visitor Count](https://komarev.com/ghpvc/?username=Gabryel-Fernandes&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Gabryel-Fernandes&color=red)
 
 ### 🌍 Me siga nas redes abaixo!
 <div>

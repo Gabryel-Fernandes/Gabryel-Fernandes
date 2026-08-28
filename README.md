@@ -1,8 +1,5 @@
 ## Bem-vindo(a) ao Gabryel-Fernandes 😁
 
-### 💼 Projetos em destaque
-🔹 
-
 ### 📊 Estatísticas
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gabryel-Fernandes&color=red)
 
